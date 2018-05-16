@@ -1,0 +1,15 @@
+c:\users\domas\source\repos\Projektas\Projektas\bin\Debug\Projektas.dll
+c:\users\domas\source\repos\Projektas\Projektas\bin\Debug\Projektas.pdb
+c:\users\domas\source\repos\Projektas\Projektas\obj\Debug\Projektas.csprojAssemblyReference.cache
+c:\users\domas\source\repos\Projektas\Projektas\obj\Debug\Projektas.csproj.CoreCompileInputs.cache
+c:\users\domas\source\repos\Projektas\Projektas\obj\Debug\Projektas.dll
+c:\users\domas\source\repos\Projektas\Projektas\obj\Debug\Projektas.pdb
+C:\Users\Domas\source\repos\Projektas\Projektas\bin\Debug\data1.csv
+C:\Users\Domas\source\repos\Projektas\Projektas\bin\Debug\Projektas.dll.config
+C:\Users\Domas\source\repos\Projektas\Projektas\bin\Debug\badlogin1.csv
+C:\Users\Domas\source\repos\Projektas\Projektas\bin\Debug\badLoginWrongPassword.csv
+C:\Users\Domas\source\repos\Projektas\Projektas\bin\Debug\BadUserName.csv
+C:\Users\Domas\source\repos\Projektas\Projektas\bin\Debug\UserNameExists.csv
+C:\Users\Domas\source\repos\Projektas\Projektas\bin\Debug\BadEmail.csv
+C:\Users\Domas\source\repos\Projektas\Projektas\bin\Debug\EmailExists.csv
+C:\Users\Domas\source\repos\Projektas\Projektas\bin\Debug\PasswordsNotMatch.csv
